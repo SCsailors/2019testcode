@@ -1,3 +1,4 @@
+//libraries used
 #include <Drive/DifferentialDrive.h>
 #include <IterativeRobot.h>
 #include <Joystick.h>
@@ -7,9 +8,6 @@
 #include <DriverStation.h>
 #include <DoubleSolenoid.h>
 #include <SmartDashBoard/SmartDashBoard.h>
-
-
-//random edit
 
 
 class Robot : public frc::IterativeRobot {
